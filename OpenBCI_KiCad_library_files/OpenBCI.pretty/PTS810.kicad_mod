@@ -1,0 +1,150 @@
+(footprint "PTS810"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at 2.95 -2.85 0)
+		(layer "F.SilkS")
+		(uuid "640e4670-a4a9-437c-a95d-8fc316a55cb6")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "PTS810 SJK 250 SMTR LFS\r"
+		(at 0 -3.81 0)
+		(layer "F.Fab")
+		(uuid "d695f925-3dc1-4325-a415-7e7890ae6e55")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Footprint" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "349b2ec2-0c17-4e84-b5d4-00c0448f64e1")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "ccb219bd-d0bb-4e2f-be48-91af17a1a1e6")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "131de6f8-5cb1-43b6-b98b-72cd0aa66e93")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr through_hole)
+	(fp_line
+		(start -1.8 -0.2)
+		(end -0.9 -1.1)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.Fab")
+		(uuid "7d9989c3-c665-452a-b428-54c1f3c1cdb3")
+	)
+	(fp_line
+		(start -1.8 1.8)
+		(end -1.8 -0.2)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.Fab")
+		(uuid "885ca676-ad58-478a-823d-0d3373aa90a3")
+	)
+	(fp_line
+		(start -0.9 -1.1)
+		(end 3.5 -1.1)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.Fab")
+		(uuid "17364d1b-d4e0-4db3-b1b7-9f9781d33863")
+	)
+	(fp_line
+		(start 3.5 -1.1)
+		(end 3.5 1.8)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.Fab")
+		(uuid "d4fc986c-f4ee-4a29-8e80-2d9c1f29afd6")
+	)
+	(fp_line
+		(start 3.5 1.8)
+		(end -1.8 1.8)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.Fab")
+		(uuid "2dc21dec-06e5-4fe0-a01d-e0618f0c7126")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0.9 0.4 0)
+		(layer "F.Fab")
+		(uuid "2f9e47a0-316e-45f0-99d5-d3fb56c3a075")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" smd rect
+		(at -1.2 -0.7)
+		(size 1.05 0.65)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "abe6c6c1-3021-40b9-bfa8-e708b13e70c7")
+	)
+	(pad "2" smd rect
+		(at 2.95 -0.7)
+		(size 1.05 0.65)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "5209022c-f6b5-4157-a0cc-be0fee56961e")
+	)
+	(pad "3" smd rect
+		(at -1.2 1.45)
+		(size 1.05 0.65)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "2e1c3d61-b211-4864-ad03-a0c2575078e2")
+	)
+	(pad "4" smd rect
+		(at 2.95 1.45)
+		(size 1.05 0.65)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "12514662-7872-431f-9d7b-1176e24f757e")
+	)
+)
