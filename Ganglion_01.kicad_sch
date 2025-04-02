@@ -7659,7 +7659,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "18pF"
+		(property "Value" "33pF"
 			(at 285.75 161.29 0)
 			(effects
 				(font
@@ -7694,7 +7694,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "GJM0335C1E180GB01D"
+		(property "MPN" "CL10C330JB8NNNC"
 			(at 280.67 163.83 0)
 			(effects
 				(font
@@ -7703,7 +7703,7 @@
 				(hide yes)
 			)
 		)
-		(property "SPN" "490-14486-1-ND"
+		(property "SPN" "1276-1070-1-ND"
 			(at 280.67 163.83 0)
 			(effects
 				(font
@@ -7745,7 +7745,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "18pF"
+		(property "Value" "33pF"
 			(at 302.895 161.29 0)
 			(effects
 				(font
@@ -7780,7 +7780,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "GJM0335C1E180GB01D"
+		(property "MPN" "CL10C330JB8NNNC"
 			(at 303.53 163.83 0)
 			(effects
 				(font
@@ -7789,7 +7789,7 @@
 				(hide yes)
 			)
 		)
-		(property "SPN" "490-14486-1-ND"
+		(property "SPN" "1276-1070-1-ND"
 			(at 303.53 163.83 0)
 			(effects
 				(font

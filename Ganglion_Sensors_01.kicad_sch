@@ -4429,7 +4429,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "MCP6001RT-I/OTCT-ND"
+		(property "MPN" "MCP6001T-I/LT"
 			(at 50.8 119.38 0)
 			(effects
 				(font
@@ -4438,7 +4438,7 @@
 				(hide yes)
 			)
 		)
-		(property "SPN" "MCP6001RT-I/OTCT-ND"
+		(property "SPN" "MCP6001T-I/LTCT-ND"
 			(at 50.8 119.38 0)
 			(effects
 				(font
@@ -4489,7 +4489,7 @@
 				)
 			)
 		)
-		(property "Value" "MCP6V13T"
+		(property "Value" "MCP6V31T"
 			(at 113.03 101.6 0)
 			(effects
 				(font

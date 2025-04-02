@@ -2211,7 +2211,7 @@
 				)
 			)
 		)
-		(property "Value" "NCP551"
+		(property "Value" "TLV75730PDBVR"
 			(at 88.9 50.8 0)
 			(effects
 				(font
@@ -2245,7 +2245,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "NCP551SN30T1G"
+		(property "MPN" "TLV75730PDBVR"
 			(at 88.9 45.72 0)
 			(effects
 				(font
@@ -2254,7 +2254,7 @@
 				(hide yes)
 			)
 		)
-		(property "SPN" "NCP551SN30T1GOSCT-ND"
+		(property "SPN" "296-51819-1-ND"
 			(at 88.9 45.72 0)
 			(effects
 				(font
@@ -3015,7 +3015,7 @@
 				)
 			)
 		)
-		(property "Value" "NCP551"
+		(property "Value" "TLV75730PDBVR"
 			(at 207.01 50.8 0)
 			(effects
 				(font
@@ -3049,7 +3049,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "NCP551SN30T1G"
+		(property "MPN" "TLV75730PDBVR"
 			(at 207.01 45.72 0)
 			(effects
 				(font
@@ -3058,7 +3058,7 @@
 				(hide yes)
 			)
 		)
-		(property "SPN" "NCP551SN30T1GOSCT-ND"
+		(property "SPN" "296-51819-1-ND"
 			(at 207.01 45.72 0)
 			(effects
 				(font
